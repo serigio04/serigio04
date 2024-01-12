@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there, i´m Sergio Gomar👋</h1>
 </div>
-<hr> 
 
 ## About me 
 - 💻 I´m a Jr Frontend Developer
