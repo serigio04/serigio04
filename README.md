@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Qa 
 <br> 
 ## Languages and tools
-https://img.shields.io/badge/JavaScript-yellow
-https://img.shields.io/badge/HTML5-orange
-https://img.shields.io/badge/CSS3-blue
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/HTML5-orange)
+![Static Badge](https://img.shields.io/badge/CSS3-blue)
+
