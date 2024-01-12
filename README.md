@@ -2,7 +2,6 @@
 <h1 align="center">Hi there, i´m Sergio Gomar👋</h1>
 </div>
 <hr>
-
 ## About me 
 - 💻 I´m a Jr Frontend Developer
 - 👨‍💻 I´m studying computer engineering
@@ -11,7 +10,7 @@
 <br> 
 ## Languages and tools
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow">
- ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
- ![Static Badge](https://img.shields.io/badge/HTML5-orange)
- ![Static Badge](https://img.shields.io/badge/CSS3-blue)
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-blue">
+
 
