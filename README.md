@@ -6,7 +6,7 @@
 - 💻 I´m a Jr Frontend Developer
 - 👨‍💻 I´m studying computer engineering
 - 🐶 I’m currently working on [Doguito Petshop](https://github.com/serigio04/DoguitoPetshop) repository 
-- 🌱 I’m currently learning Qa 
+- 🌱 I’m currently learning Qa and JIRA
 <br>
 
 ## Languages and tools
