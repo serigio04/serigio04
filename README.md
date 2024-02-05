@@ -18,7 +18,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-FFD100">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-5900FF">
   <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Selenium_IDE-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Selenium%20WebDriver-green">
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL-red">
 </p>
 
