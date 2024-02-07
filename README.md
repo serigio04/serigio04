@@ -3,10 +3,10 @@
 </div>
 
 ## About me 
-- 💻 I´m a Jr Frontend Developer
+- 💻 I´m a Jr Frontend Developer and Qa
 - 👨‍💻 I´m studying computer engineering
-- 🐶 I’m currently working on [Doguito Petshop](https://github.com/serigio04/DoguitoPetshop) repository 
-- 🌱 I’m currently learning Qa and JIRA
+- 🐶 I’m currently working on [Doguito Petshop](https://github.com/serigio04/DoguitoPetshop), [Spent.io](https://github.com/serigio04/spent.io), [Vegestore](https://github.com/serigio04/Vegestore), [Automation test](https://github.com/serigio04/Automation_test) repositories
+- 🌱 I’m currently learning Automation test and React⚛️
 <br>
 
 ## Languages and tools
