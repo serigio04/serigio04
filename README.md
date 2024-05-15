@@ -3,10 +3,10 @@
 </div>
 
 ## About me 
-- 💻 I´m a Jr Frontend Developer and Qa
+- 💻 I´m a Jr Frontend Developer, Qa and technical support
 - 👨‍💻 I´m studying computer engineering
 - 🐶 I’m currently working on [Actualiza web](https://actualizaweb.com/)
-- 🌱 I’m currently learning React⚛️
+- 🌱 I’m currently learning React⚛️ and php🐘 
 <br>
 
 ## Languages and tools
