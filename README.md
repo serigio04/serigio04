@@ -3,9 +3,9 @@
 </div>
 
 ## About me 
-- 💻 I´m a Jr Frontend Developer, Qa and technical support
+- 💻 I´m a Qa and technical support
 - 👨‍💻 I´m studying computer engineering
-- 🐶 I’m currently working on [Actualiza web](https://actualizaweb.com/)
+- 🐶 I’m currently working on [Paggo](https://www.paggoapp.com/)
 - 🌱 I’m currently learning React⚛️ and php🐘 
 <br>
 
