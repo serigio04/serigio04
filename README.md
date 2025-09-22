@@ -3,10 +3,10 @@
 </div>
 
 ## About me 
-- 💻 I´m a Qa and dev jr
+- 💻 I´m a automation Qa and jr dev
 - 👨‍💻 I´m studying computer engineering
 - 🐶 I’m currently working on [Paggo](https://www.paggoapp.com/)
-- 🌱 I’m currently learning React⚛️ and qa automation 
+- 🌱 I’m currently learning node and automation with appium
 <br>
 
 ## Languages and tools
