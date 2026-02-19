@@ -5,8 +5,8 @@
 ## About me 
 - 💻 I´m a automation Qa and jr dev
 - 👨‍💻 I´m studying computer engineering
-- 🐶 I’m currently working on [Paggo](https://www.paggoapp.com/)
-- 🌱 I’m currently learning node and automation with appium
+- 🐶 I’m currently working for [Zigi](https://zigi.app/)
+- 🌱 I’m learning node
 <br>
 
 ## Languages and tools
