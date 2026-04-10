@@ -5,8 +5,7 @@
 ## About me 
 - 💻 I´m a automation Qa and jr dev
 - 👨‍💻 I´m studying computer engineering
-- 🐶 I’m currently working for [Zigi](https://zigi.app/)
-- 🌱 I’m learning node
+- 🐶 I’m working for [Zigi](https://zigi.app/)
 <br>
 
 ## Languages and tools
